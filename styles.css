@@ -1,6 +1,10 @@
 body {background-color: rgba(205, 201, 201, 0.799);margin: 0;}
-header {background-color: white;}
+header {background-color: white; text-align: center;}
 h1 {font-size: 44px; margin: 0;}
+p {
+    padding: 10px;
+    margin: 15px;
+}
 .container {width: 600px; margin: 0 auto;}
 .post { background-color: white; margin-top: 40px; 
 box-shadow: 1px 3px 7px rgba(50, 50, 50, 1);}
